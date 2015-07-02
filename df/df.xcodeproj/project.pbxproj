@@ -15,7 +15,6 @@
 		3FE557E61B44CA5F004F0DD5 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3FE557E51B44CA5F004F0DD5 /* Images.xcassets */; };
 		3FE557E91B44CA5F004F0DD5 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3FE557E71B44CA5F004F0DD5 /* LaunchScreen.xib */; };
 		3FE557F51B44CA5F004F0DD5 /* dfTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FE557F41B44CA5F004F0DD5 /* dfTests.m */; };
-		3FE558001B44DFB4004F0DD5 /* ssViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FE557FF1B44DFB4004F0DD5 /* ssViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,8 +42,6 @@
 		3FE557EE1B44CA5F004F0DD5 /* dfTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = dfTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FE557F31B44CA5F004F0DD5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3FE557F41B44CA5F004F0DD5 /* dfTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = dfTests.m; sourceTree = "<group>"; };
-		3FE557FE1B44DFB4004F0DD5 /* ssViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ssViewController.h; sourceTree = "<group>"; };
-		3FE557FF1B44DFB4004F0DD5 /* ssViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ssViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,8 +87,6 @@
 				3FE557DA1B44CA5F004F0DD5 /* AppDelegate.m */,
 				3FE557DF1B44CA5F004F0DD5 /* ViewController.h */,
 				3FE557E01B44CA5F004F0DD5 /* ViewController.m */,
-				3FE557FE1B44DFB4004F0DD5 /* ssViewController.h */,
-				3FE557FF1B44DFB4004F0DD5 /* ssViewController.m */,
 				3FE557E21B44CA5F004F0DD5 /* Main.storyboard */,
 				3FE557E51B44CA5F004F0DD5 /* Images.xcassets */,
 				3FE557E71B44CA5F004F0DD5 /* LaunchScreen.xib */,
@@ -229,7 +224,6 @@
 			files = (
 				3FE557DB1B44CA5F004F0DD5 /* AppDelegate.m in Sources */,
 				3FE557DE1B44CA5F004F0DD5 /* df.xcdatamodeld in Sources */,
-				3FE558001B44DFB4004F0DD5 /* ssViewController.m in Sources */,
 				3FE557E11B44CA5F004F0DD5 /* ViewController.m in Sources */,
 				3FE557D81B44CA5F004F0DD5 /* main.m in Sources */,
 			);
